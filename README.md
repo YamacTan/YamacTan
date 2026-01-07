@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Computer Engineer, M.Sc. | Electrical-Electronics Engineer, B.Sc.</h2>
+<h2 align="center">DevOps & Cloud Engineer | AI & ML Engineer</h2>
 
 ###
 
